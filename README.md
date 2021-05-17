@@ -5,6 +5,10 @@ This is a machine learning solution to categorize news headlines into their resp
 
 ## Data 
 
+The data is sotred as a JSON file.
+
+"News_Category_Dataset_v2.json"
+
 This data was sourced from Kaggle, the link for which can be seen below.  
 
 [https://www.kaggle.com/rmisra/news-category-dataset](https://www.kaggle.com/rmisra/news-category-dataset)
