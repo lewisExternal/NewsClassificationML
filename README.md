@@ -1,7 +1,7 @@
 
 # News Classification ML
 
-This is a machine learning solution to categorize news headlines into their respective categories.  The models used in this example were; Multinomial Naive Bayes classifier & Support-vector machine (SVM) with SGD training.
+This is a machine learning solution to categorize news headlines into their respective categories.  The models used in this example were; Multinomial Naive Bayes classifier & Support-vector machine (SVM) with SGD training. Using the the bag-of-words approach, where each unique word in a text will be represented by one number.
 
 ## Data 
 
